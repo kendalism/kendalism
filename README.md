@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kendalism
 - 👀 I’m interested in acoustics, music production and AI technology
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python basic-level
+- 💞️ I’m looking to collaborate on acoustics or sound applications
+- 📫 How to reach me davidkendal1985@gmail.com
 
 <!---
 kendalism/kendalism is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
