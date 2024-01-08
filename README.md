@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kendalism
-- 👀 I’m interested in acoustics, music production and AI technology
+- 👀 I’m interested in acoustics and music production
 - 🌱 I’m currently learning python at a basic level
 - 💞️ I’m looking to collaborate on acoustics or sound applications
 - 📫 How to reach me davidkendal1985@gmail.com
